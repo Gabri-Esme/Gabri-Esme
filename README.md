@@ -4,7 +4,7 @@ I love exploring ideas, especially when there’s a meaningful problem to solve.
 Currently studying **data science**, but have been exposed to a variety of industries. My biggest strength is connecting the dots from my unconventional background!
 
 🧠 **What drives me:** learning fast, solving real problems, and simplifying complexity  
-⚙️ **Technologies:** Python · SQL · R
+⚙️ **Technologies:** Python · SQL · R  
 🌱 **Currently exploring:**  AI interpretability · creative coding · security · renewable energy · data privacy and responsible AI
 
 📲💻💡🔌 **Let's Connect**
