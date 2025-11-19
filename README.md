@@ -17,24 +17,24 @@ Currently studying **data science**, but have been exposed to a variety of indus
 - Intro to C
 - OneTrust Data Discovery 
 
-### 🧰 Tools & Technologies
-# Languages
+## 🧰 Tools & Technologies
+**Languages**
 Python, R, SQL, PowerShell  
 
-# Data Science / Machine Learning
+**Data Science / Machine Learning**
 scikit-learn, XGBoost, TensorFlow  
 pandas, NumPy, matplotlib, seaborn  
 Model development, evaluation, feature engineering  
 
-# Automation & Scripting
+**Automation & Scripting**
 Selenium, Playwright  
 PowerShell scripting for small automations  
 
-# Databases & Data Modelling
+**Databases & Data Modelling**
 SQLite, Oracle, Streamlit 
 ER diagrams, conceptual/logical modelling  
 
-# General Tools
+**General Tools**
 Git, GitHub  
 Jupyter Notebook, VS Code  
 API integrations  
