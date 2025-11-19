@@ -39,6 +39,17 @@ Git, GitHub
 Jupyter Notebook, VS Code  
 API integrations  
 
+---
+
+### Check my Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Energy Generation Dashboard | Builds an ETL pipeline and uses Streamlit to explore relationships between fuel generation and weather patterns | [View]([https://github.com/yourusername/project1](https://github.com/Gabri-Esme/energy-dashboard)) |
+| Web Scraper Alert Automation | Automates website monitoring using Playwright and webhooks to alert changes | [View]([https://github.com/yourusername/project2](https://github.com/Gabri-Esme/web-release-watcher)) |
+| Explain the Titanic Dataset with XAI | Explores the Titanic dataset using explainable AI (XAI) techniques to understand which features influence survival | [View]([https://github.com/yourusername/project2](https://github.com/Gabri-Esme/web-release-watcher)) |
+
+
 <!--
 **Gabri-Esme/Gabri-Esme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
