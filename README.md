@@ -18,36 +18,36 @@ Currently studying **data science**, but have been exposed to a variety of indus
 - OneTrust Data Discovery 
 
 ## 🧰 Tools & Technologies
-**Languages**
+**Languages**  
 Python, R, SQL, PowerShell  
 
-**Data Science / Machine Learning**
+**Data Science / Machine Learning**  
 scikit-learn, XGBoost, TensorFlow  
 pandas, NumPy, matplotlib, seaborn  
 Model development, evaluation, feature engineering  
 
-**Automation & Scripting**
+**Automation & Scripting**  
 Selenium, Playwright  
 PowerShell scripting for small automations  
 
-**Databases & Data Modelling**
+**Databases & Data Modelling**  
 SQLite, Oracle, Streamlit 
 ER diagrams, conceptual/logical modelling  
 
-**General Tools**
+**General Tools**  
 Git, GitHub  
 Jupyter Notebook, VS Code  
 API integrations  
 
 ---
 
-### Check my Projects
+### Check my Projects  
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Energy Generation Dashboard | Builds an ETL pipeline and uses Streamlit to explore relationships between fuel generation and weather patterns | [View]([https://github.com/yourusername/project1](https://github.com/Gabri-Esme/energy-dashboard)) |
-| Web Scraper Alert Automation | Automates website monitoring using Playwright and webhooks to alert changes | [View]([https://github.com/yourusername/project2](https://github.com/Gabri-Esme/web-release-watcher)) |
-| Explain the Titanic Dataset with XAI | Explores the Titanic dataset using explainable AI (XAI) techniques to understand which features influence survival | [View]([https://github.com/yourusername/project2](https://github.com/Gabri-Esme/web-release-watcher)) |
+| Energy Generation Dashboard | Builds an ETL pipeline and uses Streamlit to explore relationships between fuel generation and weather patterns | [View](https://github.com/Gabri-Esme/energy-dashboard) |
+| Web Scraper Alert Automation | Automates website monitoring using Playwright and webhooks to alert changes | [View](https://github.com/Gabri-Esme/web-release-watcher) |
+| Explain the Titanic Dataset with XAI | Explores the Titanic dataset using explainable AI (XAI) techniques to understand which features influence survival | [View](https://github.com/Gabri-Esme/web-release-watcher) |
 
 
 <!--
